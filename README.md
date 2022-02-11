@@ -6,7 +6,7 @@ This is a short python script to create a set of macro files for players of City
 * Creates a single target and multi target rotation if you want to use it.
 * Cycles through a number of buffing powers you'd like to keep active.
 * Easily lets you tweak a power or two and refresh all your binds.
-* ~~Walks your dog for you. ~~(Work in Progress.)
+* ~Walks your dog for you.~ (Work in Progress.)
 
 # Definitions
 * Single Target cycle: the powers you use on a single target.
