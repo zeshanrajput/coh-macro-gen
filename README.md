@@ -37,3 +37,8 @@ In game, type '/unbind <x>' where X is:
   * 0 - 9
   * w, s, a, and d
   * numpad 0, 1, 2, and decimal
+ 
+ # Prior Art
+ * These [examples](https://shipofheroes.com/forums/viewtopic.php?t=2424).
+ * The macros Luka#8022 added to [Warlawk's Tanking Guide](https://forums.homecomingservers.com/topic/7594-farm-fresh-builds-farming-focused-builds-and-tips/).
+ * The macros in the [G** D*** PB](https://forums.homecomingservers.com/topic/6824-youre-a-g-d-pb-guide/) guide. (note: I didn't add these macros but if you run a PB or WS you want them and they don't conflict with these scripts).
