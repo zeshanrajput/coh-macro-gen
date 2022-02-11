@@ -1,9 +1,11 @@
 # City of Heroes / City of Villains Macro Generator
-This is a short python script to create a set of macro files for players of City of Heroes / City of Villains. For more information on the game, check out [Homecoming](https://forums.homecomingservers.com/). 
+This is a short python script to create a set of macro files for players of City of Heroes / City of Villains (CoX). For more information on the game, check out [Homecoming](https://forums.homecomingservers.com/). CoX is limited to one auto-triggering power, but often players will have multiple powers you want to keep active. In addition end-game players can (usually) ignore all inspirations other than damage ones, and it's beneficial to quickly convert these. This script creates a series of binding files that will accomplish these tasks.
+
 # Benefits
 * Automatically converts inspirations to reds and uses them. 
 * Creates a single target and multi target rotation if you want to use it.
 * Cycles through a number of buffing powers you'd like to keep active.
+* Easily lets you tweak a power or two and refresh all your binds.
 * ~~Walks your dog for you. ~~(Work in Progress.)
 
 # Definitions
