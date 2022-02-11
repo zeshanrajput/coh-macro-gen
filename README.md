@@ -30,7 +30,8 @@ This is a short python script to create a set of macro files for players of City
 # Using the bindings
 * Your single target binds will cycle on numpad1. Note: This will not trigger your buff cycling, so regularly use 1 through 0 to activate powers.
 * Your multi target binds will cycle on numpad2. Same caveat as numpad1.
-* Your buffs will cycle on using 1 through 0 to active powers. The power in 1 through 0 will activate first, and then the power you have cycled to - so give your command queue time to empty between button presses or your buffs will never activate. 
+* Your buffs will cycle on using 1 through 0 to active powers. The power in 1 through 0 will activate first, and then the power you have cycled to - so give your command queue time to empty between button presses or your buffs will never activate.
+* Inspirations will convert and be consumed as you move. Even if you're standing still, very short key presses are enough to keep your tray from getting clogged up. Don't forget to turn off status and rez drops.
   
 # Uninstallation
 In game, type '/unbind <x>' where X is:
