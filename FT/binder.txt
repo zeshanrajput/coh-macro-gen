@@ -1,2 +1,0 @@
-numpad0 /bindloadfileD:/cohmacro/FT/bind0.txt
-decimal /bindloadfileD:/cohmacro/FT/bind_off.txt
