@@ -38,6 +38,7 @@ In game, type '/unbind <x>' where X is:
   * 0 - 9
   * w, s, a, and d
   * numpad 0, 1, 2, and decimal
+
 Or the nuclear option: '/unbind_all'.
  
  # Prior Art
